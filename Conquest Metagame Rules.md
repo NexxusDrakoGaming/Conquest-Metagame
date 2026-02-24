@@ -1,11 +1,12 @@
-# Conquest Metagame Rules
+# Conquest Metagame Rules *by Nexxus Drako (Pyra Drake)*
+*"I came up with the game in a dream of all things. I hope I get to play it someday."* -Pyra Drake
 
 ## Requirements
 1. Internet connections and video/voice chat for all players if playing online.
 2. An internet-connected computer to spin the wheel and maintain results (a physical wheel may not work due to the variance in slices per invasion).
 3. A dry erase or "Paint" version of the map.
-   4. A way to designate capital territories (a token or a mark on the "Paint" map).
-4. Multiple 2-player physical board, dice and/or card games, or an online account to a service such as BoardGameArena or Tabletopia.
+4. A way to designate capital territories (a token or a mark on the "Paint" map).
+5. Multiple 2-player physical board, dice and/or card games, or an online account to a service such as BoardGameArena or Tabletopia.
 
 ## Basics
 1. This game is optimised for play on a fictional "balkanized" US map.
@@ -24,3 +25,7 @@
 5. If the invading player loses, they must give a territory adjacent to the invaded territory to the winner, they may choose which territory if there are multiple eligible territories.
 6. If the capital is being invaded, the invading player must win twice to invade and eliminate the defending player. The defending player will successfully defend if they win either of the two games.
 7. Invading an opponents capital will win you all territory they control and eliminate them from the game.
+
+## Attribution
+- ***Conquest Metagame © 2026 by Pyra Drake is licensed under CC BY-SA 4.0***
+- ***USA Map © 2026 by MapChart is licensed under CC BY-SA 4.0***
