@@ -23,7 +23,7 @@
 2. Each player may pick any amount of boardgames to select, and may assign each game a chosen amount of slices on the wheel up to a maximum of Y, Y being half of the amount of territories the player controls, rounded down.
 3. The attacking player may declare a sacrifice of up to Y non-capital, non-adjacent territories before their spin to increase their per-game slice cap by the amount of territories sacrificed.
 4. The maximum wheel slices a player can assign is Z, Z being the amount of territories the player controls. The maximum must always be assigned.
-5. If a defending player's capital is being invaded, the numbers X, Y, and Z are doubled for that invasion only.
+5. If a defending player's capital is being invaded, their X, Y, and Z numbers are doubled for that invasion only.
 6. Winning a duel after sacrificing pre-invasion earns the attacking player a re-spin token. On a later turn, they may spend a re-spin token and a non-capital, non-adjacent territory after spinning the wheel to re-spin the wheel. The result after a single re-spin then stands, and no more re-spins can be made that turn.
 7. Winning when defending earns the defending player a block token, they may spend a block token to stop a sacrifice after declaration. They must sacrifice the same amount of territory that the attacker declares to use the token. The attacker does not gain back their sacrificed territories.
 8. A player's held re-spin and block tokens persist between turns and invasions. Spent tokens are discarded back into the pool.
@@ -36,5 +36,6 @@
 ## Attribution
 - ***Conquest Metagame © 2026 by Pyra Drake is licensed under CC BY-SA 4.0***
 - ***USA Map © 2026 by MapChart is licensed under CC BY-SA 4.0***
+
 
 
